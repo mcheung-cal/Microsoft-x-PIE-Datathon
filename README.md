@@ -10,7 +10,7 @@ Our project is to help create a tool that customer service departments can imple
 
 ## Project Highlights
 1. Key Phrase Extraction
-   - Utilize Text Anaytics resource on Azure
+   - Utilize Text Anaylytics resource on Azure
    - Focus on more important keywords instead of distracting and redundant features
 2. Bag of Words
    - Processed key phrases into format suited for ML (`key_phrase_extraction(client, df)` method in `exploration.ipynb`)
