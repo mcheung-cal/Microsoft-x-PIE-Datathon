@@ -1,6 +1,6 @@
 # Microsoft-x-PIE-Datathon
 
-This is a project Lauren Lee, Daniel Zou, Raymond Lui, and Michelle Cheung did for the 2020 Microsoft x PIE (Pioneers in Engineering) Datathon. We created a support classifier which ultilizes key words to categorize a support request to the proper theme from the customer data set we were provided. You can find more information about the datathon and the original data sets at [this repo](https://github.com/microsoft-us-ocp-ai/ucbazureworkshop).
+This is a project Lauren Lee, Daniel Zou, Raymond Lui, and Michelle Cheung did for the 2020 Microsoft x PIE (Pioneers in Engineering) Datathon. We created a support classifier which utilizes key words to categorize a support request to the proper theme from the customer data set we were provided. You can find more information about the datathon and the original data sets at [this repo](https://github.com/microsoft-us-ocp-ai/ucbazureworkshop).
 
 ## Usefulness of the Support Classifier
 Our project is to help create a tool that customer service departments can implement. It can do the following:
